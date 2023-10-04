@@ -4,7 +4,6 @@
 
 
 #include <iostream>
-#include <cctype>
 
 const int n = 10;
 
